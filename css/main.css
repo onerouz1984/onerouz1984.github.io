@@ -1,0 +1,78 @@
+img {
+	width: 100%;
+	height: auto;
+}
+
+.main-iner {
+	margin-top: 30px;
+	
+}
+
+.main {
+	border: 1px solid #000;
+	background-color: #fff;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+.title {
+	padding: 0px 15px;
+}
+
+.text {
+	padding: 0px 15px;
+}
+
+.buttonmy {
+	text-align: center;
+	padding: 0px 15px;
+	padding-bottom: 10px;
+}
+
+.secondary-iner {
+	margin: 20px 0;
+}
+
+.video {
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+.mymenu ul {
+	line-height: 50px;
+	font-size: 20px;
+	list-style-type: none;
+}
+
+.mymenu ul li {
+	padding: 0px 20px;
+}
+
+.mymenu ul li:hover {
+	background-color: #ccc;
+	
+}
+
+.mymenu a {
+	color: #000;
+}
+
+.mymenu a:hover {
+	text-decoration: none;
+}
+
+.menu {
+	border: 1px solid #ccc;
+	padding: 10px;
+	height: 100%;
+	background-color: #fff;
+}
+
+body {
+	background-image: url(../img/fon.jpg);
+	background-repeat: no-repeat;
+	background-color: #111;
+}
+
+.header {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
